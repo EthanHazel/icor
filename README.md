@@ -1,4 +1,4 @@
-# 🔍 ICOR - Icon Reader
+# 🔍 ICOR - Icon Reader (& Compiler)
 
 [![npm version](https://img.shields.io/npm/v/icor?color=blue&logo=npm)](https://www.npmjs.com/package/icor)
 [![license](https://img.shields.io/npm/l/icor)](https://github.com/yourusername/icor/blob/main/LICENSE)
