@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/EthanHazel/icor/issues"
   },
-  "homepage": "https://github.com/EthanHazel/icor#readme"
+  "homepage": "https://github.com/EthanHazel/icor#readme",
+  "dependencies": {
+    "buffer": "^6.0.3"
+  }
 }
