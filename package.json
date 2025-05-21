@@ -1,0 +1,29 @@
+{
+  "name": "icor",
+  "version": "1.0.0",
+  "description": "a lightweight .ico and .icns parser and compiler",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EthanHazel/icor.git"
+  },
+  "keywords": [
+    "ico",
+    "icns",
+    "icor",
+    "icon",
+    "icons",
+    "reader",
+    "parser",
+    "compiler"
+  ],
+  "author": "Ethan Hazel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EthanHazel/icor/issues"
+  },
+  "homepage": "https://github.com/EthanHazel/icor#readme"
+}
