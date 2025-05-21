@@ -74,6 +74,25 @@ console.log('Contains:', parsed.getInfo());
 
 ### ICNS
 
+#### Compiling
+
+```JavaScript
+const { compileIcns } = require('icor');
+
+const images = [
+  {
+    size: 32,
+    data: Buffer.from('ICON_DATA_HERE')
+  },
+  {
+    size: 256,
+    data: Buffer.from('ICON_DATA_HERE')
+  }
+];
+
+const icnsBuffer = compileIcns(images);
+```
+
 #### Parsing
 
 ```JavaScript
