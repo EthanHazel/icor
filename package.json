@@ -1,6 +1,6 @@
 {
   "name": "icor",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "a lightweight .ico and .icns parser and compiler",
   "main": "index.js",
   "scripts": {
