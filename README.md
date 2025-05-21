@@ -4,7 +4,7 @@
 [![license](https://img.shields.io/npm/l/icor)](https://github.com/yourusername/icor/blob/main/LICENSE)
 [![bundle size](https://img.shields.io/bundlephobia/min/icor)](https://bundlephobia.com/package/icor)
 
-### A lightweight parser for .ICO and .ICNS icon files
+### A lightweight parser and compiler for .ICO and .ICNS icon files
 
 ```bash
 npm install icor
