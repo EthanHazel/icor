@@ -1,7 +1,7 @@
 # 🔍 ICOR - Icon Reader (& Compiler)
 
 [![npm version](https://img.shields.io/npm/v/icor?color=blue&logo=npm)](https://www.npmjs.com/package/icor)
-[![license](https://img.shields.io/npm/l/icor)](https://github.com/yourusername/icor/blob/main/LICENSE)
+[![license](https://img.shields.io/npm/l/icor)](https://github.com/EthanHazel/icor/blob/main/LICENSE)
 [![bundle size](https://img.shields.io/bundlephobia/min/icor)](https://bundlephobia.com/package/icor)
 
 ### A lightweight parser and compiler for .ICO and .ICNS icon files
